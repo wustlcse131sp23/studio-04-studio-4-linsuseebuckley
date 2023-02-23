@@ -6,6 +6,7 @@ import edu.princeton.cs.introcs.StdDraw;
 
 public class Flag {
 	public static void main(String[] args) {
+		StdDraw.clear();
 		
 	}
 }
